@@ -2,7 +2,7 @@
 <img src="https://i.loli.net/2020/01/05/QilbpRdq4awGfSX.png" width="250px" alt="logo">
 </p>
 
-Z7(m)-KP7/5EC (GI5CN54/GJ5CN64) - OpenCore 引导配置文件.
+Z7(m)-KP7/5GC & Z7(m)-KP7/5GA (GI5CN54/GJ5CN64) - OpenCore 引导配置文件.
 
 ## 注意事项
 
@@ -14,11 +14,11 @@ Z7(m)-KP7/5EC (GI5CN54/GJ5CN64) - OpenCore 引导配置文件.
 ## 概览
 
 > 当前版本基于 OpenCore 0.5.5；  
-配置文件仅适用于 Z7(m)-KP7/5EC 机型或 GI5CN54/GJ5CN64 模具。
+配置文件仅适用于 Z7(m)-KP7/5GC & Z7(m)-KP7/5GA 机型或 GI5CN54/GJ5CN64 模具。
 
 ## 与 Clover 版本的区别
 
-- 所有正常/不正常工作的硬件与功能均与 Clover 配置文件一致，具体参见 [master](https://github.com/kirainmoe/hasee-tongfang-macos) 分支的描述
+- 所有正常/不正常工作的硬件与功能均与 Clover 配置文件一致，具体参见 [kp7gc](https://github.com/kirainmoe/hasee-tongfang-macos/tree/kp7gc) 分支的描述
 - 精简了部分 SSDT 补丁和 ACPI 重命名
 - **原生支持 NVRAM**
 - SMBIOS 更新为 `MacBookPro15,3` (MacBook Pro 15-inch, 2019)
