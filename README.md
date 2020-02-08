@@ -2,7 +2,7 @@
 <img src="https://i.loli.net/2020/01/05/QilbpRdq4awGfSX.png" width="250px" alt="logo">
 </p>
 
-Z7(m)-KP7/5(G)Z (GK5CN6X) - OpenCore 引导配置文件.
+Z7(m)-CT7/5VK & G7-CT7VK & Z7(m)-CT7/5VH & Z7(m)-CT7/5VA (GK7CP6R) - OpenCore 引导配置文件.
 
 ## 注意事项
 
@@ -14,7 +14,7 @@ Z7(m)-KP7/5(G)Z (GK5CN6X) - OpenCore 引导配置文件.
 ## 概览
 
 > 当前版本基于 OpenCore 0.5.5；  
-配置文件仅适用于 Z7(m)-KP7/5(G)Z 机型或 GK5CN6X-* 模具。
+配置文件仅适用于 Z7(m)-CT7/5VK & G7-CT7VK & Z7(m)-CT7/5VH & Z7(m)-CT7/5VA 机型或 GK7CP6R 模具。
 
 ## 与 Clover 版本的区别
 
