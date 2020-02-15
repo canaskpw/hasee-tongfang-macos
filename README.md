@@ -2,7 +2,7 @@
 <img src="https://i.loli.net/2020/01/05/QilbpRdq4awGfSX.png" width="250px" alt="logo">
 </p>
 
-Z7(m)-KP7/5GC & Z7(m)-KP7/5GA (GI5CN54/GJ5CN64) - OpenCore 引导配置文件.
+Z7M-KP7/5GC & Z7M-KP7/5GA & Z7M-KP7/5GE & Z7M-KP7/5GH (GI5CN54) - OpenCore 引导配置文件.
 
 ## 注意事项
 
