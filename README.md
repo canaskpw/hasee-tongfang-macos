@@ -2,7 +2,7 @@
 <img src="https://i.loli.net/2020/01/05/QilbpRdq4awGfSX.png" width="250px" alt="logo">
 </p>
 
-Z7(m)-KP7/5EC (GI5CN54/GJ5CN64) - OpenCore 引导配置文件.
+ Z7-KP7EC/GC/GA/GE/GH (GJ5CN64) - OpenCore 引导配置文件.
 
 ## 注意事项
 
@@ -14,7 +14,7 @@ Z7(m)-KP7/5EC (GI5CN54/GJ5CN64) - OpenCore 引导配置文件.
 ## 概览
 
 > 当前版本基于 OpenCore 0.5.5；  
-配置文件仅适用于 Z7(m)-KP7/5EC 机型或 GI5CN54/GJ5CN64 模具。
+配置文件仅适用于 Z7-KP7EC/GC/GA/GE/GH 机型或 GJ5CN64 模具。
 
 ## 与 Clover 版本的区别
 
